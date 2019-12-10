@@ -1,8 +1,9 @@
 ---
-title: Project Title 1
+title: Hauraki Mowers- Ecommerce -Shopify
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
+thumb_img_path: >-
+  /images/2019-12-10-15_56_59-hauraki-mowers-and-chainsaws-_-lawnmower-_-sales-and-service.png
 content_img_path: images/1.jpg
 layout: project
 ---
